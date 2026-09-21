@@ -1,5 +1,5 @@
 module  yang perlu diinstall
 
-pythom
+python
 sys
 time
